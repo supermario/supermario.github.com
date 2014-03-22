@@ -14,47 +14,29 @@ header {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
-
 }
-
 header p {
-    font-weight: normal;
-    padding-bottom: 10px;
-    color: #fff;
-    text-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
-    padding-top: 30px;
-    margin: 0;
-    font-size: 50px;
-    font-weight: 300;
-  }
-
-h1 {
-/*  font-weight: normal;
+  font-weight: normal;
   padding-bottom: 10px;
   color: #fff;
   text-shadow: 0px 0px 10px rgba(0, 0, 0, 1);
   padding-top: 30px;
   margin: 0;
-  font-weight: 300;*/
-
+  font-size: 50px;
+  font-weight: 400;
+}
+h1 {
   font-size: 20px;
   font-weight: 300;
   padding: 40px 0 50px 0;
 }
 h2 {
-  /*border-bottom: 1px solid rgba(0, 0, 0, .12);*/
-
   font-size: 20px;
   font-weight: 300;
   padding-bottom: 50px;
 }
 a {
-  /*transition: background .25s, color .25s;
-  -moz-transition: background .25s, color .25s;
-  -webkit-transition: background .25s, color .25s;
-  -o-transition: background .25s, color .25s;
-  */text-decoration: none;
+  text-decoration: none;
   color: #333;
 }
 
@@ -80,7 +62,6 @@ p {
   margin: 6px;
   line-height: 68px;
 }
-
 i {
   font-size: 25px;
 }
@@ -110,7 +91,6 @@ i {
   margin: 0 auto;
   padding: 0 20px;
 }
-
 .icon {
   width: 100px;
   height: 100px;
