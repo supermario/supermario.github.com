@@ -12,7 +12,7 @@ echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDQ0W/fXWwqaRovfM36JK3/29aeuCwBkfE6W+
   >> ~/.ssh/authorized_keys
 
 # Setup git config
-git config --global user.name "Mario"
+git config --global user.name "Mario Rogic"
 git config --global user.email hello@mario.net.au
 
 # Install ZSH
