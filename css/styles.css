@@ -3,6 +3,7 @@ body {
   font-family: 'Lato', 'Open Sans', sans-serif;
   font-weight: 300;
   color: #333;
+  padding-bottom: 40px;
 }
 header {
   background-image: url('../images/skyline.jpg');
@@ -94,4 +95,12 @@ i {
 .icon {
   width: 100px;
   height: 100px;
+}
+.talks {
+
+}
+.btn {
+  display: inline-block;
+  padding: 5px 10px;
+  background-color: #eee;
 }
