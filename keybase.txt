@@ -1,0 +1,84 @@
+==================================================================
+https://keybase.io/realmario
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mario.net.au
+  * I am realmario (https://keybase.io/realmario) on keybase.
+  * I have a public key with fingerprint 637E B6D2 434F 1B97 0910  7B41 0A6D D1E1 398F F347
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.3"
+        },
+        "key": {
+            "fingerprint": "637eb6d2434f1b9709107b410a6dd1e1398ff347",
+            "host": "keybase.io",
+            "key_id": "0A6DD1E1398FF347",
+            "uid": "7f178b54fb7012e2ac956d512ebf2900",
+            "username": "realmario"
+        },
+        "merkle_root": {
+            "ctime": 1420961511,
+            "hash": "2200081f642d723483fa8bfe1d26e814b2615a29000843554839c0d8440baca73062975d8b1c71759c2c60e767a7d9c4f3956dcf845a85f217ce38344bf384c6",
+            "seqno": 127071
+        },
+        "service": {
+            "hostname": "mario.net.au",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1420961618,
+    "expire_in": 157680000,
+    "prev": "43531664f18c69dba7aa4ad26173da7fdc9d50a7b98922acd32597e6795f51e2",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkntQFVUcx++9koikkLx8IMPsWGDhZc++zi5Sg4o2ND5mDELIpH2c5S6PvZe9
+l5cMDyPsMjgpIxUTw0WdJAxx1IwEZsLExMTJwcRkoqumjTAkQ9hgkGS7RFP+d86c
+z+/7+35/v3Ng0TyTxbwwt/8Ot//hq+a+EcGUfDpqewkm2KViLK4EE3MUpLqMk8rn
+IiwOy0bFAu9EVsUeqdolZM1yRs4xMVgB0pyKXdUp3AqtJFYaY+BGsayomUhzaIqh
+hTEkRAIjERRJyUDgIM4BHAoUwHlGkgACJMfKMklBXdJmd7qe6orNamYoktFlHZOY
+CDYa/KZN//D5sw9QBpAVaEoWIA4IRPAiRzMSrR8FmeBw3ACdSJuLpCE+J5fXdG3d
+cC7SsnNQhma3z6YWXYrBAIrAOQbQAOiWeKdNryIIHMdZIDMUIUGCpFhS5llBRkAi
+GMQCSiB0nje64SxF0rQOcCIusRSFC7zIQxJnCA7SEisAEQJIcyIhMjiCDOShxImU
+TBqeRZmlaJ6lZQJAEZEsSVGCTLKUyOgZnChPtevmCIhDUGrctQJFRIZvY25z8Waj
+WVXksvL5epFDs7vsoj1Hf7G5XI44I7Sr2GGQhUg4kTEnkiEoqqRv7f9rNXo8PRAG
+sDEYKnIoGspQDIKGDKsnxo0+qEDX1KOTgGH0RbMiw0kCD3me4vUZAUhKPJQlkZNo
+nIcCx3KEviiJJGgOIgZytEwDRPwXk9Z98pm6pFPJVHlXvoaw0mpLuI/JbDHNf8Zi
+/FvTQr/Afz9zhBjw2O/khHkCtoav2du97YF3haWdu+Rz6Zfe0QAHU3f5zVvDEbHl
+W6tjo4b4hrCV/hcTrOF3m9csz79Y++SolqYO3Vs5NeNuHbrJeM9Zb3tuLLovDHff
+XxBUn5b0Xn8rqqIqvg/1yY7cd/1qAvF++OrwR97bHz/+tWb5+SMfeVMUbVfgTf8P
+cMxWljHojWuoe+vLxR0lqzzozz1XercktlDte0tc/iNBdYNXL7v6D/ftLF62p7O3
+KnTX8WbtG9/oiLW2Q6u9zGJz1ustdHn6ZFZhc4Knh+niboQ8iW/dNn9e0qGUim4M
+nFhWO77Zp/GT4vKXa8vPx5aOrW/3v5B6PLimbMk1d0jAtNPq+W17d2P0yZo6PD1n
+eumRr95pe6Hl56rqoaqDtRvcZ+5xBDQ1dUVN2w/vdj/baF0VGfuiGWtLPDtd3+4f
+8Mr4UfVuXvbg5Jg1JD76r76xUwP0vjHPzIB7x/NpP03JxfzUu8GWD/NKl3x3ZkHL
+2xuXDkxUuhGWmvfZ7+VJQTNfjI2OJDu8MfFRX3fWMsMpkzMe8bXc1M/DBit6iIQm
+GX7rF3xNfXjlpezrb/gm+Kw93bE18dOd+8MulJXdSv7jzqST8DUHb+nq6AgAz4Ue
+WPdDjG13es+KTu7HknMtDccKiogJarThYGGgGNFyrHRzSn1TmKcytLKoLSXzwfjZ
+R3Gndqz/Gw==
+=ZYNB
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/realmario
+
+==================================================================
+
+
