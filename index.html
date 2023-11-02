@@ -5,11 +5,116 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
   <link href="images/favicon.ico" rel="shortcut icon" type="image/x-icon">
-  <link rel="preconnect" href="https://rsms.me/">
-  <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
-
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="css/component.css">
+  <style>
+    @font-face {
+      font-family: 'Aeonik Pro';
+      font-style: normal;
+      font-weight: 400;
+      font-display: swap;
+      src: url("f/AeonikPro-Regular.otf") format("opentype");
+    }
+
+    @font-face {
+      font-family: 'Aeonik Pro';
+      font-style: normal;
+      font-weight: 300;
+      font-display: swap;
+      src: url("f/AeonikPro-Light.otf") format("opentype");
+    }
+
+    @font-face {
+      font-family: 'Aeonik Pro';
+      font-style: normal;
+      font-weight: 600;
+      font-display: swap;
+      src: url("f/AeonikPro-Bol.otf") format("opentype");
+    }
+
+    :root {
+      font-family: 'Aeonik Pro', sans-serif;
+      font-weight: 300;
+    }
+
+    @keyframes fadeIn {
+      from {
+        opacity: 0;
+      }
+
+      to {
+        opacity: 1;
+      }
+    }
+
+    body {
+      margin: 0;
+      color: #333;
+      padding-bottom: 40px;
+      /* opacity: 0; */
+      /* transition: opacity 1s ease-in-out; */
+      animation: fadeIn 2s ease-in-out forwards;
+    }
+
+    .fade-in {
+      opacity: 1;
+    }
+
+    header p {
+      font-weight: normal;
+      padding-bottom: 10px;
+      padding-top: 30px;
+      margin: 0;
+      font-size: 40px;
+      font-weight: 300;
+    }
+
+    h1 {
+      font-size: 18px;
+      font-weight: 400;
+      padding: 40px 0 50px 0;
+      line-height: 1.5rem;
+    }
+
+    h2 {
+      font-size: 18px;
+      font-weight: 400;
+      padding-bottom: 50px;
+      line-height: 1.5rem;
+    }
+
+    a {
+      text-decoration: none;
+      color: #333;
+    }
+
+    .icons {
+      text-align: center;
+      padding-bottom: 40px;
+    }
+
+    .icons a {
+      width: 50px;
+      height: 50px;
+      text-align: center;
+      display: inline-block;
+      margin: 6px;
+      line-height: 68px;
+    }
+
+    .icons i {
+      font-size: 25px;
+    }
+
+    .text-center {
+      text-align: center;
+    }
+
+    .container {
+      max-width: 500px;
+      margin: 0 auto;
+      padding: 0 20px;
+    }
+  </style>
   <link rel="stylesheet" type="text/css" href="css/styles.css">
 </head>
 
@@ -18,16 +123,19 @@
     <p class='text-center'>Hello.</p>
   </header>
   <div class='container'>
-    <h1 class='text-center'>I'm a highly driven technology aficionado with a particular love for the web, snowboarding,
-      and learning.</h1>
-    <h2 class='text-center'>I believe technology should make life simple and joyful, and I enjoy being able to prove so.
+    <h1 class='text-center'>I'm a technology specialist and aspiring generalist.</h1>
+    <h2 class='text-center'>I believe technology should make life simple and joyful, so I build delightful products for
+      humans.
     </h2>
     <div class='icons'>
-      <a class='hi-icon' href='https://github.com/supermario'><i class="fa fa-github-alt"></i></a>
-      <a class='hi-icon' href='https://twitter.com/realmario'><i class="fa fa-twitter"></i></a>
-      <a class='hi-icon' href='https://www.linkedin.com/in/mariorogic/'><i class="fa fa-linkedin-square"></i></a>
+      <a href='https://github.com/supermario'><i class="fa fa-github-alt"></i></a>
+      <a href='https://twitter.com/realmario'><i class="fa fa-twitter"></i></a>
+      <a href='https://www.linkedin.com/in/mariorogic/'><i class="fa fa-linkedin-square"></i></a>
     </div>
   </div>
+  <script>
+    // window.onload = function () { document.body.classList.add('fade-in'); };
+  </script>
 </body>
 
 </html>
